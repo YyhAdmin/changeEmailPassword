@@ -1,0 +1,5 @@
+opencv-python==4.8.0.74
+PIL==1.1.7
+Pillow==10.0.0
+selenium==4.11.2
+selenium-stealth==1.0.6
